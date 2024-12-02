@@ -27,3 +27,17 @@ Resistencias(2)
 Arduino(1)
 
 Placa de pruebas(1)
+
+Problemáticas con con el Hardware:
+
+Módulos Bluetooth HC-05, HC-06 (Maestro y esclavo), error en su funcionamiento.
+
+Problemáticas con el código:
+
+Manejo del PulseIn
+
+Manejo del monitor serial
+
+Conversión del string a Mayúsculas
+
+
