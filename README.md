@@ -4,7 +4,7 @@ Integrantes del proyecto: Tomás Fleitas, Benjamín Korstanje, Brunella Figallo,
 
 Docente: Gonzalo Consorti
 
-Curso: 4to 2da
+Curso: 4to 2da C
 
 Objetivo del proyecto:
 
