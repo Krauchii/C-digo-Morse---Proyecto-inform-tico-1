@@ -12,32 +12,20 @@ La meta del proyecto es diseñar un traductor de código morse que traduzca de m
 
 Componentes utilizados:
 
-Potenciómetro (1)
+Potenciómetro(1)
 
-Pantalla LCD (1)
+Pantalla LCD(1)
 
 Pulsador(1)
 
 LED(1)
 
-Cables(12)
+Cables
 
-Resistencias(2)
+Resistencias 220 Ω(2)
 
 Arduino(1)
 
 Placa de pruebas(1)
 
 Problemáticas con con el Hardware:
-
-Módulos Bluetooth HC-05, HC-06 (Maestro y esclavo), error en su funcionamiento.
-
-Problemáticas con el código:
-
-Manejo del PulseIn
-
-Manejo del monitor serial
-
-Conversión del string a Mayúsculas
-
-
