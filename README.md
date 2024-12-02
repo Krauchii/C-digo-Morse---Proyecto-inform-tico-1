@@ -28,4 +28,3 @@ Arduino(1)
 
 Placa de pruebas(1)
 
-Problemáticas con con el Hardware:
